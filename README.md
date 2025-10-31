@@ -42,10 +42,15 @@ and how similar α-synuclein is to the **true prion protein (PrP)** in sequence 
 
 ## Folder Structure
 01_data/ – sequences, orthologues (FASTA)
+
 02_predictions/ – outputs from PLAAC, IUPred2A, SEG, ProtScale
+
 03_comparisons/ – MSA, dot plots, heatmaps
+
 04_structures/ – AlphaFold models, visualizations
+
 05_figures/ – poster and presentation figures
+
 06_docs/ – notes, methods, results, references
 
 
