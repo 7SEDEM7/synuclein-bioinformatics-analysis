@@ -1,0 +1,5 @@
+Ulož sem: SNCA.fasta, SNCB.fasta, SNCG.fasta, PRNP.fasta
+
+Ak pridáš ortológov, použi mená typu SNCA_human.fasta, SNCA_mouse.fasta, SNCA_zebrafish.fasta
+
+Pridaj aj Excel: ortholog_table.xlsx (druh, identita, e-value)

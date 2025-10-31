@@ -1,0 +1,3 @@
+Výstupy exportuj vždy ako .csv alebo .txt (napr. SNCA_PLAAC.csv)
+
+Do názvu daj aj dátum, keď budeš robiť viac pokusov: SNCA_PLAAC_2025-03-01.csv

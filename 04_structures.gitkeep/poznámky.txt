@@ -1,0 +1,4 @@
+PDB alebo CIF súbory z AlphaFold/ColabFold (SNCA_A53T_AF2.pdb)
+
+screenshoty z PyMOL alebo ChimeraX (NAC_highlight.png)
+
