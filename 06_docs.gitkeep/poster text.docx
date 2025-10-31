@@ -1,0 +1,28 @@
+Môj projekt sa zameriava na prionové správanie α-synukleínu,
+proteínu, ktorý je kľúčový pri Parkinsonovej chorobe.
+
+Za normálnych podmienok pomáha α-synukleín v neurónoch prenášať signál,
+ale keď sa začne nesprávne skladať, vytvára fibrily podobne ako prióny.
+Toto správanie nazývame prion-like, pretože sa patologická forma vie prenášať medzi molekulami.
+
+Cieľom môjho projektu je zistiť, prečo sa práve α-synukleín správa prionovo,
+zatiaľ čo jeho príbuzné proteíny β a γ-synukleín nie,
+a do akej miery sa jeho vlastnosti podobajú priónovému proteínu PrP.
+
+Najskôr získam sekvencie α-, β-, γ-synukleínu a PrP z databázy UniProt.
+Pomocou nástrojov PLAAC, IUPred2A, SEG a ProtScale
+budem predikovať prion-like oblasti, neštruktúrovanosť,
+nízku sekvenčnú komplexitu a hydrofóbnosť.
+Tieto vlastnosti následne porovnám medzi proteínmi pomocou MMseqs2 a Clustal Omega,
+a ich podobnosť zobrazím v dot plotoch a heatmapách,
+aby som zistila, kde sa tieto vlastnosti prekrývajú — najmä v oblasti NAC domény,
+ktorá pravdepodobne tvorí jadro agregácie.
+
+Nakoniec plánujem použiť AlphaFold2,
+aby som modelovala 3D štruktúru α-synukleínu
+a jeho mutácií A30P, E46K a A53T, ktoré môžu ovplyvňovať jeho stabilitu a agregáciu.
+
+Cieľom je ukázať, že α-synukleín má špecifickú kombináciu
+sekvenčných a štrukturálnych vlastností,
+ktoré vysvetľujú jeho prion-like správanie
+a odlišujú ho od ostatných členov synukleínovej rodiny a od PrP.“
